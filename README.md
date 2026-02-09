@@ -28,7 +28,7 @@ The architecture is built on a **Low-Code** stack using n8n for orchestration:
 ## 🚀 Setup & Installation
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/YGA-Assistant.git](https://github.com/your-username/YGA-Assistant.git)
+    git clone [https://github.com/EzzNazzal/YGA-Training-Assistant.git](https://github.com/EzzNazzal/YGA-Training-Assistant.git)
     ```
 2.  **Import Workflows:**
     * Navigate to your n8n dashboard.
