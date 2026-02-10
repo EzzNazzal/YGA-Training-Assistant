@@ -1,7 +1,6 @@
 # YGA Training Assistant (HTU) 🎓🤖
 
 **Developer:** EzzEdden Nazzal  
-**Role:** AI Engineer, Ministry of Digital Economy & Entrepreneurship (MoDEE)  
 **Program:** Generative AI Training (HTU)
 
 ![Status](https://img.shields.io/badge/Status-Live-success) ![Stack](https://img.shields.io/badge/Stack-n8n%20|%20Supabase%20|%20OpenAI-blue) ![License](https://img.shields.io/badge/License-MIT-green)
