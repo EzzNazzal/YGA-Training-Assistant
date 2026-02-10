@@ -139,4 +139,4 @@ YGA-Training-Assistant/
 
 ## 🤝 Contact
 **EzzEdden Nazzal** AI Engineer | Ministry of Digital Economy & Entrepreneurship  
-https://www.linkedin.com/in/ezzedden-nazzal-97b68b241/?skipRedirect=true | eznazzal10@gmail.com
+https://www.linkedin.com/in/ezzedden-nazzal-97b68b241/ | eznazzal10@gmail.com
